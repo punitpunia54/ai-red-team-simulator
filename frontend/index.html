@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Red Team Dashboard</title>
+</head>
+
+<body>
+
+<h1>Attack Simulations</h1>
+
+<div id="results"></div>
+
+<script>
+
+async function loadData() {
+
+  const response = await fetch("http://127.0.0.1:8000/simulations")
+
+  const data = await response.json()
+  console.log('@@@@@@@@@@@@test',response);
+  
+
+  const container = document.getElementById("results")
+
+  data.forEach(item => {
+
+    container.innerHTML += `
+      <div>
+        <h3>${item.company_type}</h3>
+        <p>${item.attack_type}</p>
+        <p>${item.risk_level}</p>
+      </div>
+    `
+  })
+}
+
+loadData()
+
+</script>
+
+</body>
+</html>

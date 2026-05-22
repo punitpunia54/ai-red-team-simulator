@@ -1,3 +1,24 @@
 2026-05-21 16:31:45,322 - INFO - Generating AI attack simulation
 2026-05-21 16:31:46,404 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2026-05-21 16:31:46,418 - INFO - AI response generated successfully
+2026-05-22 16:41:57,102 - INFO - Generating AI attack simulation
+2026-05-22 16:41:58,268 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 16:41:58,284 - INFO - AI response generated successfully
+2026-05-22 16:53:06,417 - INFO - Generating AI attack simulation
+2026-05-22 16:53:07,178 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 16:53:07,199 - INFO - AI response generated successfully
+2026-05-22 17:00:21,146 - INFO - Generating AI attack simulation
+2026-05-22 17:00:21,973 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 17:00:21,975 - INFO - AI response generated successfully
+2026-05-22 17:00:46,846 - INFO - Generating AI attack simulation
+2026-05-22 17:00:48,152 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 17:00:48,153 - INFO - AI response generated successfully
+2026-05-22 17:36:23,931 - INFO - Generating AI attack simulation
+2026-05-22 17:36:24,975 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 17:36:24,992 - INFO - AI response generated successfully
+2026-05-22 17:36:25,107 - INFO - 2 changes detected
+2026-05-22 17:44:17,438 - INFO - Generating AI attack simulation
+2026-05-22 17:44:25,603 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 17:44:25,604 - INFO - AI response generated successfully
+2026-05-22 17:44:25,846 - INFO - 2 changes detected
+2026-05-22 17:49:34,021 - INFO - 1 change detected
